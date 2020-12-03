@@ -1,0 +1,32 @@
+OFFICE
+
+file wahana.txt dibikin dalam bentuk tree
+tree ditaro dibaris2 atas
+keterangan masing2 node ada dibagian bawah
+
+i. Detail wahana; yang setiap wahananya mencakup:
+0.ID WAHANA
+1. Nama wahana
+2. Tipe wahana
+3. Harga wahana
+4. Lokasi wahana
+5. Deskripsi wahana
+6. Kapasitas wahana
+7. History Upgrade wahana
+8. Durasi wahana (dalam satuan menit)
+9. Ukuran wahana (Bonus)
+10. Upgrade
+11. Status : berfungsi/rusak
+
+ii. Laporan wahana; yang setiap wahananya mencakup:
+1. Berapa kali wahana dinaiki.
+2. Total penghasilan dari wahana.
+3. Berapa kali wahana dinaiki dalam hari ini.
+
+iii. cost untuk upgrade wahana
+1. uang yang dibutuhkan
+2. bahan bangunan yang dibutuhkan
+
+iv. upgrade
+PAKE ADT TREE
+daftar upgrade --> list berkait

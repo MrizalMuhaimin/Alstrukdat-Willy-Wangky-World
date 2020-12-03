@@ -1,0 +1,12 @@
+clay-50
+sand-75
+wood-100
+hardwood-135
+rock-120
+blackrock-145
+copper-150
+iron-180
+silver-225
+gold-240
+iridium-275
+starstone-325.

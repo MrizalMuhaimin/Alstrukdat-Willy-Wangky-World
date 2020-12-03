@@ -1,0 +1,10 @@
+1-Coaster-TIPE-60-Rasakan sensasi menaiki kereta coaster yang sangat lincah!-10-10-hardwood-3-100
+2-Helicap-TIPE-30-Bagaimana rasanya diterbangkan diudara bebas?-15-15-silver-2-150
+3-Watersplash-TIPE-40-Air, siapa takut? Tak sabar untuk berpetualang dalam ombak yang menantang!-10-15-blackrock-4-150
+4-Jungle-TIPE-50-Pacu adrenalinmu dengan memanjat tebing ala Willy Wangky!-5-10-wood-2-100
+5-Shotgun-TIPE-20-Simulasi untuk menembak gebetan, Shotgun adalah arenanya!-5-20-copper-2-200
+6-Marinebay-TIPE-20-Serunya menyelami lautan Pasifik yang luas tanpa perlu berbasah kuyup!-15-25-silver-3-250
+7-Liftup-TIPE-30-Lift tercepat dengan jangkauan tertinggi, hanya ada di Willy Wangky!-10-10-iron-4-0
+8-Stars-TIPE-20-Pecahkan teka teki sulit dan gapai bintang sebanyak banyaknya!-5-20-iridium-1-0
+9-Dancingking-TIPE-30-Menari dengan bebas bersama Willy Wangky dan nikmati musiknya!-5-30-clay-3-0
+10-Rush-TIPE-30-Rasakan sensasi mengendarai Rush Car di arena yang menantang!-5-30-rock-4-0.

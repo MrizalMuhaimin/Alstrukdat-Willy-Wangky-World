@@ -1,0 +1,91 @@
+
+ID WAHANA
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+WAHANA
+1. Coaster
+2. Helicap
+3. Watersplash
+4. Jungle
+5. Shotgun
+6. Marinebay
+7. Liftup
+8. Stars
+9. Dancingking
+10. Rush 
+
+TIPE 
+1. tipe apaan?
+
+HARGA
+1. 60
+2. 30
+3. 40
+4. 50
+5. 20
+6. 20
+7. 30
+8. 20
+9. 30
+10. 30
+
+LOKASI (dari build)
+1.
+
+DESKRIPSI
+1. Rasakan sensasi menaiki kereta coaster yang sangat lincah!
+2. Bagaimana rasanya diterbangkan diudara bebas?
+3. Air, siapa takut? Tak sabar untuk berpetualang dalam ombak yang menantang!
+4. Pacu adrenalinmu dengan memanjat tebing ala Willy Wangky!
+5. Simulasi untuk menembak gebetan, Shotgun adalah arenanya!
+6. Serunya menyelami lautan Pasifik yang luas tanpa perlu berbasah kuyup!
+7. Lift tercepat dengan jangkauan tertinggi, hanya ada di Willy Wangky!
+8. Pecahkan teka-teki sulit dan gapai bintang sebanyak-banyaknya!
+9. Menari dengan bebas bersama Willy Wangky dan nikmati musiknya!
+10. Rasakan sensasi mengendarai Rush Car di arena yang menantang!
+
+
+KAPASITAS
+1. 10
+2. 15
+3. 10
+4. 5
+5. 5
+6. 15
+7. 10
+8. 5
+9. 5
+10. 5
+
+HISTORY //ga ditampilin di txt
+
+DURASI (MENIT)
+1. 10
+2. 15
+3. 15
+4. 10
+5. 20
+6. 25
+7. 10
+8. 20
+9. 30
+10. 30
+
+UKURAN (bonus) //ga ditampilin di txt
+
+UPGRADE //ga ditampilin di txt
+
+STATUSRUSAK //ga ditampilin di txt
+
+STATUSBUILD //ga ditampilin di txt
+
+ID-WAHANA-TIPE-HARGA-DESKRIPSI-KAPASITAS-DURASI(MENIT)-BAHAN-JUMLAH BAHAN-UPGRADE COST

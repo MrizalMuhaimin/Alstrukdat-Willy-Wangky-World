@@ -31,7 +31,10 @@ Willy Wangky's World adalah sebuah program simulasi theme park yang dibuat demi 
 5. Selamat bermain!
 
 ## Status
-Project is: belum selesai
+Project is: belum selesai dan telah deadline.
+
+## SS Program
+![tampilan awal](./ss1.png)
 
 ## Contact
 Created by:  
